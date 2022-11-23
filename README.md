@@ -1,5 +1,5 @@
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE" 
-### **Tarea # 2**
+### **Tarea # 3**
 ### **Nombre: Joan Calderón**
 ### **Carrera: Mecatrónica**
 ### **Profesor: Ing. Darwin Alulema**
@@ -21,31 +21,51 @@
 
 > 1. Cinco resistores de igual valor se conectan en serie y hay una corriente de 2 mA hacia el primer resistor. La cantidad de corriente que sale del segundo resistor es
 
-**(a) igual a 2 mA**    (b) menor que 2 mA    (c) mayor que 2 mA
+**(a) igual a 2 mA**    
+(b) menor que 2 mA    
+(c) mayor que 2 mA
 
 > 3. Cuando se conecta un tercer resistor en serie con dos resistores en serie, la resistencia total
 
-(a) permanece igual    **(b) aumenta**    (c) disminuye     (d) aumenta en un tercio
+(a) permanece igual   
+**(b) aumenta**   
+(c) disminuye   
+(d) aumenta en un tercio
 
 > 5. Un circuito en serie se compone de tres resistores con valores de 100 Ω, 220 Ω, y 330 Ω. La resistencia total es
 
-(a) menor que 100 Ω   (b) el promedio de los valores    (c) de 550 Ω    **(d) de 650 Ω**
+(a) menor que 100 Ω   
+(b) el promedio de los valores    
+(c) de 550 Ω    
+**(d) de 650 Ω**
 
 > 7. Al colocar cuatro baterías de 1.5 V en una linterna, accidentalmente se pone una batería al revés. El voltaje a través del foco será de
 
-(a) 6 V    (b) 3 V    (c) 4.5 V     **(d) 0 V**
+(a) 6 V   
+(b) 3 V   
+(c) 4.5 V       
+**(d) 0 V**
 
 > 9. Hay seis resistores en un circuito en serie dado y cada resistor tiene una caída de 5 V a través de él. El voltaje de fuente es
 
-(a) 5 V     **(b) 30 V**    (c) depende de los valores de los resistores    (d) depende de la corriente
+(a) 5 V         
+**(b) 30 V**        
+(c) depende de los valores de los resistores        
+(d) depende de la corriente
 
 > 11. ¿Cuál de las siguientes combinaciones en serie disipa más potencia cuando se conecta a través de una fuente de 100 V?
 
-**(a) Un resistor de 100 Ω** (b) Dos resistores de 100 Ω    (c) Tres resistores de 100 Ω    (d) Cuatro resistores de 100 Ω
+**(a) Un resistor de 100 Ω**    
+(b) Dos resistores de 100 Ω       
+(c) Tres resistores de 100 Ω      
+(d) Cuatro resistores de 100 Ω
 
 > 13. Cuando se conecta un amperímetro en un circuito resistivo en serie y se activa el voltaje de fuente, el medidor lee cero. Deberá buscarse
 
-(a) un alambre roto     (b) un resistor en cortocircuito    (c) un resistor abierto     (d) las respuestas (a) y (c)
+(a) un alambre roto       
+(b) un resistor en cortocircuito      
+(c) un resistor abierto       
+**(d) las respuestas (a) y (c)**
 
 ### ***EXAMEN RÁPIDO DE DINÁMICA DE CIRCUITOS***
 
@@ -53,44 +73,60 @@
 ![image](https://user-images.githubusercontent.com/116821398/203179012-da8907af-5f36-4e47-877a-643fe5dff5f0.png)
 > 1. Si la corriente mostrada por uno de los miliamperímetros se incrementa, la corriente mostrada por los otros dos
 
-**(a) aumenta**     (b) disminuye     (c) no cambia
+**(a) aumenta**       
+(b) disminuye       
+(c) no cambia
 
 > 3. Si la corriente a través de R1 se incrementa porque R1 es reemplazado por un resistor diferente, la corriente indicada por cada miliamperímetro
 
-**(a) aumenta**     (b) disminuye     (c) no cambia
+**(a) aumenta**       
+(b) disminuye       
+(c) no cambia
 
 #### Consulte la figura 5-73.
 ![image](https://user-images.githubusercontent.com/116821398/203179182-c64398c9-732a-4807-9639-e265f0fbd868.png)
 > 5. En las condiciones descritas en la pregunta 4 (Con una fuente de voltaje de 10 V conectada entre los puntos A y B cuando los interruptores cambian
 de la posición 1 a la 2), la corriente a través de R3
 
-(a) se incrementa     **(b) disminuye**     (c) no cambia
+(a) se incrementa       
+**(b) disminuye**     
+(c) no cambia
 
 > 7. Cuando los interruptores están en la posición 2 y se desarrolla un corto a través de R3, la corriente en R5
 
-**(a) aumenta**     (b) disminuye    (c) no cambia
+**(a) aumenta**       
+(b) disminuye       
+(c) no cambia
 
 #### Consulte la figura 5-77.
 ![image](https://user-images.githubusercontent.com/116821398/203179565-18771a9c-8da2-49ed-8b54-beb7293efe1c.png)
 > 9. Si el interruptor se cambia de la posición B a la C, el voltaje a través de R4
 
-**(a) aumenta**     (b) disminuye     (c) no cambia
+**(a) aumenta**       
+(b) disminuye       
+(c) no cambia
 
 #### Consulte la figura 5-84(b).
 ![image](https://user-images.githubusercontent.com/116821398/203179693-a51f3e73-3c8a-4d65-909f-150c14b87f89.png)
 > 11. Si R1 cambia a 1.2 kΩ, el voltaje de A a B
 
-(a) se incrementa     **(b) disminuye**     (c) no cambia
+(a) se incrementa       
+**(b) disminuye**       
+(c) no cambia
 
 > 13. Si el voltaje de la fuente se incrementa de 8 a 10 V, el voltaje de A a B
 
-**(a) aumenta**     (b) disminuye     (c) no cambia
+**(a) aumenta**       
+(b) disminuye       
+(c) no cambia
 
 #### Consulte la figura 5-91.
 ![image](https://user-images.githubusercontent.com/116821398/203179919-a61bd5c4-7846-4dc8-8b07-e551668ee1aa.png)
 >15. Si la fuente de 9 V se invierte, el voltaje en el punto B con respecto a tierra
 
-(a) aumenta **(b) disminuye** (c) no cambia
+(a) aumenta     
+**(b) disminuye**     
+(c) no cambia
 
 ### ***PROBLEMAS SECCIÓN 5–1 Resistores en serie***
 
@@ -100,7 +136,6 @@ de la posición 1 a la 2), la corriente a través de R3
 ![image](https://user-images.githubusercontent.com/116821398/203180403-35cf8ed4-7531-4a2b-8667-2105f4353915.png)
 
 > 3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.
-
 ![image](https://user-images.githubusercontent.com/116821398/203180783-0a0cfe1b-8c00-4399-862d-828a352580c4.png)
 
 > 5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
@@ -121,7 +156,10 @@ de la posición 1 a la 2), la corriente a través de R3
 
 > 11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:
 
-(a) 560 Ω y 1000 Ω    (b) 47 Ω y 56 Ω     (c) 1.5 kΩ, 2.2 kΩ, y 10 kΩ     (d) 1.0 MΩ, 470 kΩ, 1.0 kΩ, 2.2 MΩ
+(a) 560 Ω y 1000 Ω      
+(b) 47 Ω y 56 Ω       
+(c) 1.5 kΩ, 2.2 kΩ, y 10 kΩ       
+(d) 1.0 MΩ, 470 kΩ, 1.0 kΩ, 2.2 MΩ
 
 > 13. ¿Cuál es la resistencia total de doce resistores de 5.6 kΩ dispuestos en serie?
 
@@ -177,7 +215,6 @@ de la posición 1 a la 2), la corriente a través de R3
 
 ![image](https://user-images.githubusercontent.com/116821398/203184884-6d56eb8e-9187-4d84-a005-b32d3bfad6a9.png)
 
-
 > 35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
 
 ![image](https://user-images.githubusercontent.com/116821398/203184938-dafb8991-d090-4061-8208-26c30958eb8b.png)
@@ -202,7 +239,7 @@ de la posición 1 a la 2), la corriente a través de R3
 
 ### ***SECCIÓN 5–8 Potencia en circuitos en serie***
 
->47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
+> 47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
 
 ![image](https://user-images.githubusercontent.com/116821398/203185215-938f103f-7131-4570-80dc-443e841c1fc0.png)
 
@@ -237,3 +274,239 @@ de la posición 1 a la 2), la corriente a través de R3
 ## Capítulo 6
 
 ### ***AUTOEVALUACIÓN***
+
+> 1. En un circuito en paralelo, cada resistor tiene
+
+(a) la misma corriente        
+**(b) el mismo voltaje**      
+(c) la misma potencia       
+(d) todo lo anterior
+
+> 3. Un resistor de 330 Ω, otro de 270 Ω, y uno más de 68 Ω están en paralelo. La resistencia total es aproximadamente de
+
+(a) 668 Ω       
+**(b) 47 Ω**      
+(c) 68 Ω      
+(d) 22 Ω
+
+> 5. Cuando se conecta un resistor adicional de un lado a otro de un circuito paralelo existente, la resistencia total
+
+**(a) disminuye**       
+(b) aumenta       
+(c) no cambia       
+(d) se incrementa en el valor del resistor agregado
+
+> 7. Dos corrientes entran a una unión, una corriente es de 500 mA y otra de 300 mA. La corriente total que sale de la unión es
+
+(a) de 200 mA       
+(b) desconocida       
+**(c) de 800 mA**       
+(d) la más grande de las dos
+
+> 9. Una reducción repentina de la corriente total que entra a un circuito en paralelo puede indicar
+
+(a) un corto      
+(b) un resistor abierto       
+(c) una caída del voltaje de fuente     
+**(d) o (b) o (c)**
+
+> 11. En cierto circuito en paralelo de tres ramas, R1 tiene 10 mA a través de él, R2 tiene 15 mA, y R3 20 mA.
+Después de medir una corriente total de 35 mA, se puede decir que
+
+**(a) R1 está abierto**       
+(b) R2 está abierto       
+(c) R3 está abierto       
+(d) el circuito está funcionando apropiadamente
+
+> 13. En uno de los cinco resistores en paralelo de una tarjeta de circuito impreso se desarrolla un corto completo. El resultado más probable es que
+
+(a) el resistor en cortocircuito se fundirá         
+(b) uno o más de los demás resistores se fundirán         
+**(c) el fusible en la fuente de potencia se fundirá**       
+(d) se modificarán los valores de resistencia
+
+### ***EXAMEN RÁPIDO DE DINÁMICA DE CIRCUITOS***
+
+#### Consulte la figura 6-68.
+![image](https://user-images.githubusercontent.com/116821398/203463019-f7f36cee-58c3-4d1c-ba18-b364367b1582.png)
+
+> 1. Si R1 se abre con el interruptor en la posición mostrada, el voltaje en la terminal A con respecto a tierra
+
+(a) aumenta         
+(b) disminuye       
+**(c) no cambia**
+
+> 3. Si R4 se abre con el interruptor en la posición C, la corriente total
+
+(a) aumenta     
+(b) disminuye     
+**(c) no cambia**
+
+#### Consulte la figura 6-74(b).
+![image](https://user-images.githubusercontent.com/116821398/203463460-1717d2f1-72e5-40db-afc8-0d3174eef2b0.png)
+
+> 5. Si R2 se abre, la corriente a través de R1
+
+(a) aumenta     
+(b) disminuye     
+**(c) no cambia**
+
+> 7. Si R1 se abre, el voltaje entre sus extremos
+
+(a) aumenta   
+(b) disminuye     
+**(c) no cambia**
+
+#### Consulte la figura 6-75.
+![image](https://user-images.githubusercontent.com/116821398/203463516-d2e25a11-3b22-434a-9d01-0ff09cefe57e.png)
+
+> 9. Si el fusible se abre, el voltaje entre los extremos del reóstato R2
+
+(a) aumenta     
+**(b) disminuye**     
+(c) no cambia
+
+#### Consulte la figura 6-79.
+![image](https://user-images.githubusercontent.com/116821398/203463552-ac5b7695-28e7-4a8f-8b49-3dec96930636.png)
+
+> 11. Si la fuente de 2.25 mA se abre mientras el interruptor está en la posición C, la corriente a través de R
+
+(a) aumenta   
+**(b) disminuye**   
+(c) no cambia
+
+#### Consulte la figura 6-87.
+![image](https://user-images.githubusercontent.com/116821398/203463586-61d87e64-e2ad-41ed-824f-4ce91b925eb2.png)
+
+> 13. Si las puntas 4 y 5 están en cortocircuito entre sí, la resistencia entre las puntas 3 y 6
+
+**(a) aumenta**   
+(b) disminuye   
+(c) no cambia
+
+> 15. Si R7 se abre, la resistencia entre las puntas 5 y 6
+
+**(a) aumenta**  
+(b) disminuye   
+(c) no cambia
+
+### ***PROBLEMAS SECCIÓN 6–1 Resistores en paralelo***
+
+> 1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
+
+![image](https://user-images.githubusercontent.com/116821398/203464654-e15d561a-998f-427c-acca-4ffc78900acd.png)
+![image](https://user-images.githubusercontent.com/116821398/203464672-03bc6326-2497-4a70-92f7-f0456c2c2db0.png)
+
+> 3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+
+![image](https://user-images.githubusercontent.com/116821398/203464787-13ea729c-dec3-4700-b82e-439c41258f1b.png)
+
+### ***SECCIÓN 6–2 Voltaje en un circuito en paralelo***
+
+> 5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+
+![image](https://user-images.githubusercontent.com/116821398/203465039-a92ca259-8e42-4972-bd34-ee149fc26210.png)
+
+> 7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/116821398/203465091-d0603c45-9f79-41da-a9bc-736f211187c9.png)
+
+### ***SECCIÓN 6–3 Ley de las corrientes de Kirchhoff***
+
+> 9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+> 11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
+
+![image](https://user-images.githubusercontent.com/116821398/203465158-2acdbef9-c4a6-42d3-b718-a39cdbcbfbe8.png)
+
+> 13. La resistencia total de un circuito en paralelo es de 25 Ω. ¿Cuál es la corriente a través de un resistor de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?
+
+### ***SECCIÓN 6–4 Resistencia total en paralelo***
+
+> 15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
+
+(a) 560 Ω y 1000 Ω    
+(b) 47 Ω y 56 Ω   
+(c) 1.5 kΩ, 2.2 kΩ, 10 kΩ   
+(d) 1.0 MΩ, 470 kΩ, 1.0 kΩ, 2.7 MΩ
+
+> 17. ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?
+
+> 19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18 (Tres grupos, uno de cinco resistores de 470 Æ, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo).
+
+> 21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+
+![image](https://user-images.githubusercontent.com/116821398/203466327-587f06db-1ace-4e08-b06b-89f6eed07566.png)
+
+(a) SW1 y SW2 abiertos    
+(b) SW1 cerrado, SW2 abierto    
+(c) SW1 abierto, SW2 cerrado    
+(d) SW1 y SW2 cerrados
+
+### ***SECCIÓN 6–5 Aplicación de la ley de Ohm***
+
+> 23. Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+
+> 25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kΩ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+
+> 27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ω mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
+
+![image](https://user-images.githubusercontent.com/116821398/203466483-d88a638f-d6ca-4d87-bde7-3b2ae7494c41.png)
+
+> 29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
+
+![image](https://user-images.githubusercontent.com/116821398/203466510-2652e756-6b7b-4303-b25b-0f7c6fd40fa4.png)
+
+### ***SECCIÓN 6–6 Fuentes de corriente en paralelo***
+
+31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.
+
+![image](https://user-images.githubusercontent.com/116821398/203466561-ecc040d0-2328-4a60-93af-3e10850c9ca3.png)
+
+### ***SECCIÓN 6–7 Divisores de corriente***
+
+> 33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
+
+![image](https://user-images.githubusercontent.com/116821398/203466614-ae148691-3ade-4929-8e6b-6f9ee7081cdf.png)
+
+> 35. Determine todos los valores de resistor en la figura 6-83. RT = 773 Ω.
+
+![image](https://user-images.githubusercontent.com/116821398/203466683-b6c562a2-c779-4385-b510-38d15996071e.png)
+
+> 37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kΩ de escala completa entre la derivación para realizar la medición.
+
+(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
+aplicación de medición de 50 A?
+
+(b) ¿Cuánta corriente circula por el medidor?
+
+### ***SECCIÓN 6–8 Potencia en circuitos en paralelo***
+
+> 39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.
+
+![image](https://user-images.githubusercontent.com/116821398/203466784-063edd6e-43e7-48f4-b7d8-77bdaed8f20b.png)
+
+> 41. Encuentre los valores de las cantidades no especificadas en la figura 6-84.
+
+![image](https://user-images.githubusercontent.com/116821398/203466825-9075fceb-6fc2-4670-93d0-f776b73d632f.png)
+
+### ***SECCIÓN 6–10 Localización de fallas*** 
+
+> 43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
+
+> 45. ¿Qué está mal con el circuito de la figura 6-86?
+
+![image](https://user-images.githubusercontent.com/116821398/203466914-167277ef-6903-4535-9f52-95ad5d6b3e69.png)
+
+> 47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
+
+![image](https://user-images.githubusercontent.com/116821398/203466968-d2829779-3628-4baf-be2d-a4821f55e3b5.png)
+
+> 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+
+![image](https://user-images.githubusercontent.com/116821398/203467042-b90e6565-8425-4bdf-a14b-25208a2eeeef.png)
+
+(a) 1 y 2     
+(b) 2 y 3     
+(c) 2 y 4     
+(d) 1 y 4
