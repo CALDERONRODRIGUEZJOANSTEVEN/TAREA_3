@@ -138,15 +138,23 @@ de la posición 1 a la 2), la corriente a través de R3
 > 3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.
 ![image](https://user-images.githubusercontent.com/116821398/203180783-0a0cfe1b-8c00-4399-862d-828a352580c4.png)
 
+**170 kΩ**
+
 > 5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
 
 ![image](https://user-images.githubusercontent.com/116821398/203180967-fac42229-706a-47c2-ab72-e424138e072b.png)
+
+**R1, R7, R8 y R10 están en serie.**    
+**R2, R4, R6 y R11 están en serie.**    
+**R3, R5, R9 y R12 están en serie.**
 
 ### ***SECCIÓN 5–2 Corriente en un circuito en serie***
 
 > 7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
 
 ![image](https://user-images.githubusercontent.com/116821398/203181268-2d7c4446-a8b9-4dc1-9445-7ffea658d3c3.png)
+
+**5 mA**
 
 > 9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.
 
@@ -156,20 +164,33 @@ de la posición 1 a la 2), la corriente a través de R3
 
 > 11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:
 
-(a) 560 Ω y 1000 Ω      
-(b) 47 Ω y 56 Ω       
-(c) 1.5 kΩ, 2.2 kΩ, y 10 kΩ       
-(d) 1.0 MΩ, 470 kΩ, 1.0 kΩ, 2.2 MΩ
+(a) 560 Ω y 1000 Ω    
+**1560 Ω**    
+
+(b) 47 Ω y 56 Ω   
+**103 Ω**  
+
+(c) 1.5 kΩ, 2.2 kΩ, y 10 kΩ   
+**13.7 kΩ** 
+
+d) 1.0 MΩ, 470 kΩ, 1.0 kΩ, 2.2 MΩ   
+**3.671 MΩ**
 
 > 13. ¿Cuál es la resistencia total de doce resistores de 5.6 kΩ dispuestos en serie?
+
+**67.2 kΩ**
 
 > 15. Si en la figura 5-72 la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?
 
 ![image](https://user-images.githubusercontent.com/116821398/203184126-b5ca8a0f-262b-4b64-b289-e65b591ff40e.png)
 
+**3.9 kΩ**
+
 > 17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
 
 ![image](https://user-images.githubusercontent.com/116821398/203184229-9a6741b3-2e6f-4b4c-957a-69a580aca0d3.png)
+
+**17.8 MΩ**
 
 ### ***SECCIÓN 5–4 Aplicación de la ley de Ohm***
 
@@ -177,65 +198,109 @@ de la posición 1 a la 2), la corriente a través de R3
 
 ![image](https://user-images.githubusercontent.com/116821398/203184363-e49fc1d3-35fb-4989-bb70-9b32435cb49e.png)
 
+**a) 625 µA**   
+**b) 4.26 µA**
+
 > 21. Se conectan tres resistores de 470 Ω en serie con una fuente de 48 V.
 
-(a) ¿Cuál es la corriente en el circuito?
+(a) ¿Cuál es la corriente en el circuito?   
+**34 mA** 
 
-(b) ¿Cuál es el voltaje a través de cada resistor?
+(b) ¿Cuál es el voltaje a través de cada resistor?    
+**16 V**    
 
-(c) ¿Cuál es el valor nominal de potencia de los resistores?
+(c) ¿Cuál es el valor nominal de potencia de los resistores?    
+**0.543 W**
 
 > 23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
 
 ![image](https://user-images.githubusercontent.com/116821398/203184600-7ef8e82b-88a5-4237-ab61-18d6798eeb5b.png)
 
+**R1 = 330 Ω**    
+**R2 = 220 Ω**    
+**R3 = 100 Ω**    
+**R4 = 470 Ω**
+
 > 25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
 
 ![image](https://user-images.githubusercontent.com/116821398/203184647-736a1ec8-6c84-4b67-a789-8aeed436b9bb.png)
 
-(a) ¿Cuál es la resistencia de R4?
+(a) ¿Cuál es la resistencia de R4?    
+**331 Ω**
 
-(b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
+(b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?   
+**Posición B: 9.15 mA**   
+**Posición C: 14.3 mA**   
+**Posición D: 36.3 mA**
 
-(c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
+(c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?    
+**No, no se fundirá**
 
 ### ***SECCIÓN 5–5 Fuentes de voltaje en serie***
 
 > 27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?
 
+**14 V**
+
 > 29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.
 
 ![image](https://user-images.githubusercontent.com/116821398/203184784-11ee7113-df92-4d8c-a22e-67edbaf0ec5a.png)
+
+**(a) 23V**       
+**(b)35 V**       
+**(c)0 V**
 
 ### ***SECCIÓN 5–6 Ley del voltaje de Kirchhoff***
 
 > 31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
 
+**4 V**
+
 > 33. En el circuito de la figura 5-81, determine la resistencia de R4
 
 ![image](https://user-images.githubusercontent.com/116821398/203184884-6d56eb8e-9187-4d84-a005-b32d3bfad6a9.png)
+
+**22 Ω** 
 
 > 35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
 
 ![image](https://user-images.githubusercontent.com/116821398/203184938-dafb8991-d090-4061-8208-26c30958eb8b.png)
 
+**Posición A: 4.0 V**       
+**Posición B: 4.5 V**   
+**Posición C: 5.4 V**   
+**Posición D: 7.2 V**
+
 ### ***SECCIÓN 5–7 Divisores de voltaje***
 
-> 37. La resistencia total de un circuito es de 560 Æ. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Æ que forma parte de la resistencia total en serie?
+> 37. La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Ω que forma parte de la resistencia total en serie?
+
+**4.82%**
 
 > 39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
 
 ![image](https://user-images.githubusercontent.com/116821398/203185073-71c83ddb-f704-42e1-b4ae-43dc6bef0c53.png)
 
+**Salida A 5 15 V**   
+**Salida B 5 10.6 V**   
+**Salida C 5 2.62 V**
+
 > 41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
 
 ![image](https://user-images.githubusercontent.com/116821398/203185152-5b72e74e-b3c5-4c78-a52f-fe522407a958.png)
+
+**VR = 6 V, V2R = 12 V, V3R = 18 V**    
+**V4R = 24 v, V5R = 30 V**
 
 > 43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
 
 ![image](https://user-images.githubusercontent.com/116821398/203185215-938f103f-7131-4570-80dc-443e841c1fc0.png)
 
+**V2 = 1.79 V, V3 = 1 V, V4 = 17.9 V**
+
 > 45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del 61% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
+
+![image](https://user-images.githubusercontent.com/116821398/203694393-3cd192e7-648e-428b-ba5c-6761f31137b0.png)
 
 ### ***SECCIÓN 5–8 Potencia en circuitos en serie***
 
@@ -243,9 +308,13 @@ de la posición 1 a la 2), la corriente a través de R3
 
 ![image](https://user-images.githubusercontent.com/116821398/203185215-938f103f-7131-4570-80dc-443e841c1fc0.png)
 
+**54.9 mW**
+
 > 49. Encuentre RT en la figura 5-89.
 
 ![image](https://user-images.githubusercontent.com/116821398/203185426-3f967b8b-9a68-4cce-998c-ab9fc53afc65.png)
+
+**12.5 MΩ**
 
 ### ***SECCIÓN 5–9 Mediciones de voltaje***
 
@@ -253,9 +322,13 @@ de la posición 1 a la 2), la corriente a través de R3
 
 ![image](https://user-images.githubusercontent.com/116821398/203185521-858dc246-26ee-4e36-93f0-62d61f45939e.png)
 
+**VA = 100 V, VB = 57.7 V, VC = 15.2 V, VD = 7.58 V**
+
 > 53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
 
 ![image](https://user-images.githubusercontent.com/116821398/203185547-d85e114a-729d-4c88-abf1-87a52f33d458.png)
+
+**VA = 14.82 V, VB = 12.97 V, VC = 12.64 V, VD = 9.34 V**
 
 ### ***SECCIÓN 5–10 Localización de fallas***
 
@@ -263,13 +336,20 @@ de la posición 1 a la 2), la corriente a través de R3
 
 ![image](https://user-images.githubusercontent.com/116821398/203185628-e6040c35-e3d2-4a21-a4d7-547a9d74b57d.png)
 
+**(a) R4 está abierto**   
+**(b) Corto de A a B**
+
 > 57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
 
 ![image](https://user-images.githubusercontent.com/116821398/203185728-b6152098-eca8-4ce1-a850-4323d560fd41.png)
 
+**Es correcta**
+
 > 59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo
 
 ![image](https://user-images.githubusercontent.com/116821398/203185794-89f8baf3-8e22-4c66-a674-1fc0c4315af2.png)
+
+**Sí, hay un corto entre la clavija 4 y el lado superior de R11**
 
 ## Capítulo 6
 
@@ -401,61 +481,106 @@ Después de medir una corriente total de 35 mA, se puede decir que
 
 ![image](https://user-images.githubusercontent.com/116821398/203464787-13ea729c-dec3-4700-b82e-439c41258f1b.png)
 
+**R1, R2, R5, R9, R10, y R12 están en paralelo.**   
+**R4, R6, R7, y R8 están en paralelo.**   
+**R3 y R11 están en paralelo.**
+
 ### ***SECCIÓN 6–2 Voltaje en un circuito en paralelo***
 
 > 5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
 
 ![image](https://user-images.githubusercontent.com/116821398/203465039-a92ca259-8e42-4972-bd34-ee149fc26210.png)
 
+**100 V**
+
 > 7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
 
 ![image](https://user-images.githubusercontent.com/116821398/203465091-d0603c45-9f79-41da-a9bc-736f211187c9.png)
+
+**Posición A: V1 = 15 V, V2 = 0 V, V3 = 0 V, V4 = 15 V**    
+**Posición B: V1 = 15 V, V2 = 0 V, V3 = 15 V, V4 = 0 V**    
+**Posición C: V1 = 15 V, V2 = 15 V, V3 = 0 V, V4 = 0 V**
 
 ### ***SECCIÓN 6–3 Ley de las corrientes de Kirchhoff***
 
 > 9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
 
+**1.35 A**
+
 > 11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
 
 ![image](https://user-images.githubusercontent.com/116821398/203465158-2acdbef9-c4a6-42d3-b718-a39cdbcbfbe8.png)
 
+**R2 = 22 Ω**   
+**R3 = 100 Ω**    
+**R4 = 33 Ω**
+
 > 13. La resistencia total de un circuito en paralelo es de 25 Ω. ¿Cuál es la corriente a través de un resistor de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?
+
+**11.4 mA**
 
 ### ***SECCIÓN 6–4 Resistencia total en paralelo***
 
 > 15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
 
 (a) 560 Ω y 1000 Ω    
+**359 Ω **
+
 (b) 47 Ω y 56 Ω   
+**25.6 Ω**
+
 (c) 1.5 kΩ, 2.2 kΩ, 10 kΩ   
-(d) 1.0 MΩ, 470 kΩ, 1.0 kΩ, 2.7 MΩ
+**819 Ω**
+
+(d) 1.0 MΩ, 470 kΩ, 1.0 kΩ, 2.7 MΩ    
+**997 Ω**
 
 > 17. ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?
 
+**567 Ω**
+
 > 19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18 (Tres grupos, uno de cinco resistores de 470 Æ, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo).
+
+**24.6 Ω**
 
 > 21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
 
 ![image](https://user-images.githubusercontent.com/116821398/203466327-587f06db-1ace-4e08-b06b-89f6eed07566.png)
 
 (a) SW1 y SW2 abiertos    
+**510 kΩ**
+
 (b) SW1 cerrado, SW2 abierto    
-(c) SW1 abierto, SW2 cerrado    
-(d) SW1 y SW2 cerrados
+**245 kΩ**
+
+(c) SW1 abierto, SW2 cerrado        
+**510 kΩ**
+
+(d) SW1 y SW2 cerrados    
+**193 kΩ**
 
 ### ***SECCIÓN 6–5 Aplicación de la ley de Ohm***
 
 > 23. Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
 
+**10 A**
+
 > 25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kΩ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+
+**50 mA**   
+**Cuando un foco se funde, los demás focos permanecen encendidos**
 
 > 27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ω mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
 
 ![image](https://user-images.githubusercontent.com/116821398/203466483-d88a638f-d6ca-4d87-bde7-3b2ae7494c41.png)
 
+**53.7 Ω**
+
 > 29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
 
 ![image](https://user-images.githubusercontent.com/116821398/203466510-2652e756-6b7b-4303-b25b-0f7c6fd40fa4.png)
+
+*I2 = 167 mA, I3 = 83.3 mAm IT = 300 mA**
 
 ### ***SECCIÓN 6–6 Fuentes de corriente en paralelo***
 
@@ -463,22 +588,35 @@ Después de medir una corriente total de 35 mA, se puede decir que
 
 ![image](https://user-images.githubusercontent.com/116821398/203466561-ecc040d0-2328-4a60-93af-3e10850c9ca3.png)
 
+**Posición A: 2.25 mA**   
+**Posición B: 4.75 mA**   
+**Posición C: 7 mA**
+
 ### ***SECCIÓN 6–7 Divisores de corriente***
 
 > 33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
 
 ![image](https://user-images.githubusercontent.com/116821398/203466614-ae148691-3ade-4929-8e6b-6f9ee7081cdf.png)
 
+**(a) I1 = 6.88 µA, I2 = 3.12 µA**    
+**(b) I1 = 5.25 mA, I2 = 2.39 mA, I3 = 1.59 mA, I4 = 772 µA** 
+
 > 35. Determine todos los valores de resistor en la figura 6-83. RT = 773 Ω.
 
 ![image](https://user-images.githubusercontent.com/116821398/203466683-b6c562a2-c779-4385-b510-38d15996071e.png)
 
+**R1 = 3.3 kΩ**   
+**R2 = 1.8 kΩ**   
+**R3 = 5.6 kΩ**   
+**R4 = 3.9 kΩ**
+
 > 37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kΩ de escala completa entre la derivación para realizar la medición.
 
-(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
-aplicación de medición de 50 A?
+(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A?    
+**1 mΩ**
 
-(b) ¿Cuánta corriente circula por el medidor?
+(b) ¿Cuánta corriente circula por el medidor?   
+**5 µA**
 
 ### ***SECCIÓN 6–8 Potencia en circuitos en paralelo***
 
@@ -486,27 +624,61 @@ aplicación de medición de 50 A?
 
 ![image](https://user-images.githubusercontent.com/116821398/203466784-063edd6e-43e7-48f4-b7d8-77bdaed8f20b.png)
 
+**(a) 68.8 µW**   
+**(b) 52.5 mW**
+
 > 41. Encuentre los valores de las cantidades no especificadas en la figura 6-84.
 
 ![image](https://user-images.githubusercontent.com/116821398/203466825-9075fceb-6fc2-4670-93d0-f776b73d632f.png)
+
+**P1 = 1.25 W, I2 = 75 mA, I1 = 125 mA, Vs = 10 V**   
+**R1 = 80 Ω, R2 = 133 Ω**
 
 ### ***SECCIÓN 6–10 Localización de fallas*** 
 
 > 43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
 
+**682 mA, 3.41 A**
+
 > 45. ¿Qué está mal con el circuito de la figura 6-86?
 
 ![image](https://user-images.githubusercontent.com/116821398/203466914-167277ef-6903-4535-9f52-95ad5d6b3e69.png)
+
+**El resistor de 8.2 kΩ está abierto.**
 
 > 47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 
 ![image](https://user-images.githubusercontent.com/116821398/203466968-d2829779-3628-4baf-be2d-a4821f55e3b5.png)
 
+**Conectar el ohmmetro entre las siguientes clavijas:**   
+**Clavijas 1-2**    
+**Lectura correcta: R = 1.0 kΩ‖3.3 kΩ = 767 Ω**   
+**R1 abierto: R = 3.3 kΩ**    
+**R2 abierto: R = 1.0 kΩ**    
+**Clavijas 3-4**    
+**Lectura correcta: R = 270 Ω‖390 Ω = 159.5 Ω**   
+**R3 abierto: R = 390 Ω**    
+**R4 abierto: R = 270 Ω**   
+**Clavijas 5-6**    
+**Lectura correcta:**   
+**R = 1.0 MΩ‖1.8 MΩ‖680 kΩ‖510 kΩ = 201 kΩ**    
+**R5 abierto: 1.8 MΩ‖680 kΩ‖510 kΩ = 251 kΩ**        
+**R6 abierto: 1.0 MΩ‖680 kΩ‖510 kΩ = 226 kΩ**    
+**R7 abierto: 1.0 MΩ‖1.8 MΩ‖510 kΩ = 284 kΩ**    
+**R8 abierto: 1.0 MΩ‖1.8 MΩ‖680 kΩ = 330 kΩ**
+
 > 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 
 ![image](https://user-images.githubusercontent.com/116821398/203467042-b90e6565-8425-4bdf-a14b-25208a2eeeef.png)
 
-(a) 1 y 2     
-(b) 2 y 3     
-(c) 2 y 4     
-(d) 1 y 4
+(a) 1 y 2   
+**R1y2 = (R1‖R2‖R3‖R4‖R11‖R12) + (R5‖R6‖R7‖R8‖R9‖R10) = 940 Ω**
+
+(b) 2 y 3   
+**R2y3 = R5‖R6‖R7‖R8‖R9‖R10 = 518 Ω**
+
+(c) 2 y 4   
+**R2y4 = R5‖R6‖R7‖R8‖R9‖R10 = 518 Ω**
+
+(d) 1 y 4   
+**R1y4 = R1‖R2‖R3‖R4‖R11‖R12 = 422 Ω**
