@@ -6,12 +6,16 @@
 
 ## **1. OBJETIVOS**
 
-+ 
-+
-+
-+
++ Aprender más a fondo sobre circuitos en serie.    
++ Dominar las fórmulas relacionadas a Ley de Ohm y Leyes de Kirchoff.
++ Saber aplicar las fórmulas para los distitntos circuitos de forma correcta.
++ Analizar los esquemas y aprender a diferenciar sus elementos.
 
 ## **2. MARCO TEÓRICO (RESUMEN)**
+
+![image](https://user-images.githubusercontent.com/116821398/203904614-9cd9a500-b936-4603-acbd-3c39acdeba6a.png)
+![image](https://user-images.githubusercontent.com/116821398/203904789-1f2145f1-131a-40be-aa8c-39cfdb15e1ca.png)
+![image](https://user-images.githubusercontent.com/116821398/203912717-b19674f8-2185-4b14-bd93-54c5edd6a2d6.png)
 
 ## **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
