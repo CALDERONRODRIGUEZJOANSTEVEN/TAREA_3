@@ -6,7 +6,7 @@
 
 ## **1. OBJETIVOS**
 
-+
++ 
 +
 +
 +
@@ -682,3 +682,17 @@ Después de medir una corriente total de 35 mA, se puede decir que
 
 (d) 1 y 4   
 **R1y4 = R1‖R2‖R3‖R4‖R11‖R12 = 422 Ω**
+
+## **4. VIDEO**
+
+https://youtu.be/_fUBHspOLWc
+
+## **5. CONCLUSIONES**
+
+He ido dominando mucho la Ley de Ohm y aprendiendo acerca de la Ley de Kirchhoff, es interesante el hecho de poco a poco irse dando cuenta de como se realizan los cálculos y eso poderlo observar mediante simuladores, logrando de esta forma trasladar lo terico a lo practico y aprender de una mejor manera los capitulos correspondientes. Aprender a reconocer y aplicar las fórmulas para cada circuito es algo que no se aprende de la noche a la mañana pero que con el repaso y el estudio, se puede llegar a lograr.
+
+## **6. BIBLIOGRAFÍA**
+
++ Floyd. (1994). Principles Electric Circuits. Macmillan Library Reference.
++ Floyd. (1991). Principles Electric Circuits. Macmillan Library Reference.
+
